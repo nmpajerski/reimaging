@@ -1,1 +1,1 @@
-# to reimage is to erase and restore
+To reimage is to erase and restore.
